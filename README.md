@@ -25,16 +25,16 @@ SalesView360 is a comprehensive full-stack admin dashboard application tailored 
 
 ### Frontend
 
-- ![React](https://img.shields.io/badge/-React-blue): Building user interfaces.
-- ![Material UI](https://img.shields.io/badge/-Material_UI-blue): Styling components and data grids.
-- ![Nivo](https://img.shields.io/badge/-Nivo-blue): Visualization library for charts.
-- ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-blue): State management and API calls using Redux Toolkit Query.
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white): Building user interfaces.
+- ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white): Styling components and data grids.
+- ![Nivo](https://img.shields.io/badge/-Nivo-61ACEC?style=flat&logo=nivo&logoColor=white): Visualization library for charts.
+- ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white): State management and API calls using Redux Toolkit Query.
 
 ### Backend
 
-- ![Node.js](https://img.shields.io/badge/-Node.js-green): Runtime environment.
-- ![Express.js](https://img.shields.io/badge/-Express.js-green): Backend framework for building APIs.
-- ![Mongoose](https://img.shields.io/badge/-Mongoose-green): MongoDB object modeling for data management.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white): Runtime environment.
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white): Backend framework for building APIs.
+- ![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=mongoose&logoColor=white): MongoDB object modeling for data management.
 
 ## Entity Relationship Diagram
 
